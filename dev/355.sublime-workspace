@@ -1,0 +1,892 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"footer",
+				"footerWrapper"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"assertP",
+				"assertParseOk"
+			],
+			[
+				"asser",
+				"assertParseError"
+			],
+			[
+				"Fun",
+				"FunType"
+			],
+			[
+				"Pa",
+				"PackratParser"
+			],
+			[
+				"assert",
+				"assertParseError"
+			],
+			[
+				"as",
+				"assertParseError"
+			],
+			[
+				"spray",
+				"spraySpriteIndex"
+			],
+			[
+				"sp",
+				"sprayOffset"
+			],
+			[
+				"spr",
+				"spraySpriteIndex"
+			],
+			[
+				"repaint",
+				"Repaint"
+			],
+			[
+				"dama",
+				"damageX"
+			],
+			[
+				"canvas",
+				"canvasHeight"
+			],
+			[
+				"next",
+				"nextLevel"
+			],
+			[
+				"can",
+				"canvas"
+			],
+			[
+				"public",
+				"publicSuperVar"
+			],
+			[
+				"pu",
+				"publicVar"
+			],
+			[
+				"Win",
+				"winCondition"
+			],
+			[
+				"Canv",
+				"canvasWidth"
+			],
+			[
+				"hi",
+				"highlight"
+			],
+			[
+				"Get",
+				"GetDirectSurroundings"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"burn",
+				"burnCount"
+			],
+			[
+				"line",
+				"lineOffset"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"level",
+				"levelArr"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"highl",
+				"highlighted"
+			],
+			[
+				"hig",
+				"highlightedPath"
+			],
+			[
+				"high",
+				"highlighted"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_assoc"
+			],
+			[
+				"over",
+				"overview_summary"
+			],
+			[
+				"mysq_num",
+				"mysql_num_rows"
+			],
+			[
+				"sess",
+				"session_destroy"
+			],
+			[
+				"clos",
+				"closestCity"
+			],
+			[
+				"clo",
+				"closestCity"
+			],
+			[
+				"req",
+				"requiredData"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"checkout",
+				"checkout-progress"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"border-top-",
+				"border-top-left-radius"
+			],
+			[
+				"pag",
+				"pagination"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"_dis",
+				"_displayTimedSaleItems"
+			],
+			[
+				"slides",
+				"contentSlides"
+			],
+			[
+				"page",
+				"pageContent"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"orw",
+				"orwcubecart_customer_group"
+			],
+			[
+				"orwc",
+				"orwcubecart_addressbook"
+			],
+			[
+				"orwcu",
+				"orwcubecart_customer"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"pa",
+				"pageContainer"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"org",
+				"original"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"Price",
+				"PriceFormat"
+			],
+			[
+				"real_escap",
+				"mysql_real_escape_string"
+			],
+			[
+				"orwcub",
+				"orwcubecart_order_inventory"
+			],
+			[
+				"cart",
+				"cart_order_id"
+			],
+			[
+				"First",
+				"first_name"
+			],
+			[
+				"customer",
+				"customer_id"
+			],
+			[
+				"navi",
+				"navigation_tree"
+			],
+			[
+				"tot",
+				"total_commission"
+			],
+			[
+				"image_type_",
+				"image_type_to_mime_type"
+			],
+			[
+				"image_ty",
+				"image_type_to_mime_type"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"Agency",
+				"AgencyID"
+			],
+			[
+				"MB",
+				"MYSQL_TBLE"
+			],
+			[
+				"PA",
+				"PAGE_NAME"
+			],
+			[
+				"login",
+				"login_timeout"
+			],
+			[
+				"log",
+				"login_timeout"
+			],
+			[
+				"Max",
+				"MaxHeight"
+			],
+			[
+				"MAx",
+				"MaxWidth"
+			],
+			[
+				"VALID_",
+				"VALID_PICTURE_FORMATS"
+			],
+			[
+				"Chec",
+				"CheckDefaultVariables"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/emoore/Sites/ARL/classes/Page.php",
+			"settings":
+			{
+				"buffer_size": 2169,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/emoore/Sites/ARL/css/style.css",
+			"settings":
+			{
+				"buffer_size": 3627,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/emoore/Sites/ARL/classes/SingletonDB.php",
+			"settings":
+			{
+				"buffer_size": 1268,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/emoore/Sites/ARL/clients.php",
+			"settings":
+			{
+				"buffer_size": 1965,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/emoore/Sites/ARL/classes/SingletonDB.php",
+		"/Users/emoore/Sites/ARL/clients.php",
+		"/Users/emoore/Sites/ARL/classes/User.php",
+		"/Users/emoore/Sites/ARL/user.php",
+		"/Users/emoore/Sites/ARL/index.php",
+		"/Users/emoore/Sites/ARL/newAnalysis.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/89CE97D6-AEF9-45BA-B882-305B221AE29D/ninja-forms.php",
+		"/Users/emoore/Sites/ARL/css/style.css",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/189E8C91-6483-4DF2-AF85-FD6988EDD382/Page.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/7B849501-5CBB-4E5B-A068-373B7180752F/user.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/40E7A745-6815-4969-AB67-5A341377DCB7/user.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/853F3FEB-2395-4976-891F-AFCA210E2268/User.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/76DCA7F0-7FD7-4E19-893F-D5A3A3E29DF8/Page.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/E6DE4725-D6EF-4D62-944E-9B32D1A10D8F/SingletonDB.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/CD74F754-EFCC-4EC1-B238-88B03DCC04AC/index.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/FC1A5DF4-0797-4C34-B742-1388A1C618A1/Page.php",
+		"/Users/emoore/Sites/ARL/classes/Page.php",
+		"/Users/emoore/Sites/ARL/js/jquery-1.10.2.min.js",
+		"/Users/emoore/Sites/ARL/analysis.php",
+		"/Users/emoore/Desktop/Breaking.Bad.S01E07.avi",
+		"/Users/emoore/Desktop/Server.xls",
+		"/Users/emoore/Sites/ARL/main.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/EFFC6C22-19E4-4A5C-B576-982F407DA6B5/main.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/C7753FCD-028D-42F3-A018-DE938E3FCA5C/index.php",
+		"/Users/emoore/Drive/University/COMP332/comp332-week6/src/exp/Main.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-week6/src/exp/ParsingTests.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-week6/src/exp/NameTests.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-week6/src/exp/SymbolTable.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-week6/src/exp/SyntaxAnalysis.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-week6/src/exp/ExpTree.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-week6/src/exp/SemanticAnalysis.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-week6/test/name.exp",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/9B73D197-D5BB-4EBF-934B-0A82162A863A/Page.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/DAE9CE29-D770-4EC2-B7C6-1EF44CB0AC15/index.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/FCE2F5B2-83D0-41AA-A5CD-81DB21E41B7C/SingletonDB.php",
+		"/Users/emoore/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/emoore/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/emoore/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/6F589C48-E99E-4267-9E33-A59784E4041A/User.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/37F901BC-D4DC-483C-8846-20131AD699F1/_config.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/D0C1E59D-28D0-4705-843D-6AC9E48CACA7/_config.php",
+		"/Users/emoore/Desktop/QueenBee/_config.php",
+		"/Users/emoore/Desktop/QueenBee/classes/SingletonDB.php",
+		"/Users/emoore/Desktop/QueenBee/index.php",
+		"/Users/emoore/Desktop/QueenBee/classes/user.php",
+		"/Users/emoore/Sites/NotesHub/auth.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/A899F691-50DE-47B1-9080-84D2194131DB/_config.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/384CF700-5D32-4711-B62F-8364B689F7A7/homepage.css",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/B4DDEE8F-D29F-4D38-9750-4F8F9FDEC31D/_config.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/A77DA4BC-099E-455C-B999-EAD658561E08/emailUs.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/DBD5A51D-D22E-440D-8812-14266B53C8D6/contact.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/B645318D-C620-4190-8EAC-74F5CAD4B58E/footer.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/DF3661DB-DDF2-4606-9850-83250C63DF0C/header.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/90ECE47B-E460-42E8-98BA-01CEF0C08400/style.css",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/6C0A34E4-B5B9-4B07-8802-AFE85B7BEBA4/pageHome.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/06111956-E2C1-49A3-B045-893497C15AD2/contact.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/35D30D28-6A2E-4E2A-8C5B-7C3B858DCEC2/functions.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/FA766FDF-4859-44BC-BB59-1F7C40C6E834/page.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/6C6FEADC-5713-4494-A689-CF97A98CF556/index.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/D6C16F0A-AF8E-44EB-9AB9-98CF4CB5105F/index.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/AFD805D3-9561-4C4C-B0AF-21C1FF19CC39/page.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/A88BD27C-E521-40B7-9262-C823ECE1831E/header.php",
+		"/Users/emoore/Desktop/Slides-SlidesJS-3/examples/standard/index.html",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/0BC18520-31ED-4E11-87BA-45D46395ECD5/pageTemplate.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/83AB6D38-3404-446C-8B6B-975852C7BFF2/index.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/7159CF84-616A-4E4C-8B89-43494CABB521/pageHome.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/BE54E53D-1FF2-4391-8B8A-3E3D245D0AFA/conversation.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/E9AFEB4B-307A-4FA0-ADFA-32A7C28EA289/page.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/24AA2C0B-C152-4E95-9C13-7C7F9C37DF61/page.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/BD37A27D-DAC5-4E77-8DCC-59FDDAC0D7A6/pageTemplate.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/9705886A-F028-487E-8EAE-EE9F8F22064E/page.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/39340EE4-5D15-443D-B371-2C6987A38A37/header.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/7D7D9853-1B25-488E-B791-445D2A67C156/footer.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/3C706494-CC87-4BF0-AE96-FC736553FBC3/index.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/93E2A133-E5E3-4BB1-9824-3B90F82D02B6/footer.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/9851B544-8E94-4AEC-9356-7EA9B1FD2A1A/header.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/BFA70CB5-A2B7-42A9-9300-7648A1FD5340/index.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/8D773032-B85A-4E79-B0E5-09B371130A66/index.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/F03A2778-D508-4082-98A1-44FA59614FA5/style.css",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/5C9D2ABB-A340-4C9E-9C72-60BE3A85EE8D/maintenancemode.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/3A3CE5F0-E726-4AFD-9940-C5BD57B41DD0/ultimate-maintenance-mode.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/A895C4FE-05AA-467B-9905-0DCB8FA78E05/footer.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/6B9979F7-95D9-413F-9A4A-5FBEDB5DF431/header.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/8D4DFC79-7670-44B0-9F2A-121B98DFFC06/footer.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/2A8EA8FA-C2A0-4BB8-81C6-8FAB54C68F3B/header.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/52D6CDCF-EEBB-4F96-9446-CAA76F6BF962/style.css",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/6E2F1253-EE36-4665-81B0-51B491242618/header.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/F277911F-4DCA-45AA-888E-65FE6C68E952/page.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/187A9114-5A99-4168-8FAF-5F72D5F9D3D0/page.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/E7C41666-B2D2-4E6A-BF3A-136887AECAF6/pageTemplate.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/AE0E24EF-B255-4F1A-BB83-154D6E46FABA/header.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/93A25BF6-F7AC-4C50-B908-A69462BF085F/header.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/E4FE8499-25A6-4F00-AC0D-D32211C15D62/normalize.css",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/0FAAABA5-0E1E-4F53-9F25-720CE5428BA1/header.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/65BE9B3D-A4B9-48CC-8D9C-137F1F072D97/style.css",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/1BF34C1C-260C-4BDE-A6D3-33A34FD50B57/index.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/E70B1B14-3558-4E56-8CD8-A75F26C47A29/header.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/BD5C8125-C5CE-4691-97BD-1C56A81AF403/index.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/878DF7EE-272E-41D3-A837-00E49B9D50C2/index.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/48D2D06C-6784-4870-942D-C503742492FB/header.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/72928A7F-A6EB-4B79-A121-873D7E88D0A6/footer.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/F7EBDF97-A517-4A20-8D11-B034A7512E55/page.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/FD4579F6-01B1-43EC-A928-1152CE1019E8/index.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/403C585B-07CA-40E2-B18B-551806243EC6/style.css",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/EE0AA8CB-2B14-41CD-83D6-8909849EE799/functions.php",
+		"/Users/emoore/Library/Caches/Cleanup At Startup/Transmit/78323AF9-DC2A-413B-9953-9D4D7B71F840/footer.php",
+		"/Users/emoore/Drive/University/COMP332/comp332-week5/src/exp/ParsingTests.scala",
+		"/Users/emoore/index.php",
+		"/Users/emoore/Drive/University/COMP332/comp332-func332/src/func332/SyntaxAnalysis.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-func332/src/func332/Func332Tree.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-func332/src/func332/ParsingTests.scala",
+		"/Users/emoore/Downloads/SyntaxAnalysis.scala",
+		"/Users/emoore/Downloads/SyntaxAnalysis (1).scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-week2/test/input.exp",
+		"/Users/emoore/Drive/University/COMP332/comp332-week5/src/exp/SemanticAnalysis.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-week5/src/exp/SyntaxAnalysis.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-func332/test/tests.func332",
+		"/Users/emoore/Drive/University/COMP332/comp332-func332/test/factorial.func332",
+		"/Users/emoore/Drive/University/COMP332/comp332-func332/src/func332/Main.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-assignment1/test/input.exp",
+		"/Users/emoore/Drive/University/COMP332/comp332-assignment1/src/exp/SyntaxAnalysis.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-week5/test/input.exp",
+		"/Users/emoore/Drive/University/COMP332/comp332-assignment1/src/exp/SemanticAnalysis.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-week5/src/exp/ConstantTests.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-week5/src/exp/ExpTree.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-assignment1/src/exp/ExpTree.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-assignment1/src/exp/Main.scala",
+		"/Users/emoore/Drive/University/COMP332/comp332-week5/src/exp/Main.scala"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Volumes/xampp-1/htdocs/CubeCart-5.1.4",
+			"/Volumes/xampp/htdocs/CubeCart-5.1.4"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"analysis.php",
+			"Anyalsys",
+			"MultipleEntity",
+			"pagination-item",
+			"html",
+			"FunExp",
+			"application",
+			"AppExp",
+			"arsing a parenthesized expression produces",
+			"AppExp",
+			"tree",
+			"tab",
+			"\\$con",
+			"IntExp",
+			"<three>VolumeUp</three>",
+			"console.log",
+			"getDirect",
+			"this.sprayOffset",
+			"prayImg",
+			"this.stopped",
+			");\n",
+			"this",
+			".onFire",
+			"console.log",
+			"fireFreq",
+			"Freq",
+			"freq",
+			"frequency",
+			"FPS",
+			"timer",
+			"count",
+			"getms",
+			"getTime",
+			"Point",
+			"nextPoint",
+			"console.log",
+			"temp",
+			" ",
+			"createActionTimer",
+			"GameCanvas.news",
+			"loading.jpg",
+			"menu.jpg",
+			"this.img",
+			"new Array",
+			"intToBlock",
+			"JS",
+			"start",
+			"    ",
+			"UnhightlightAll",
+			"onFire",
+			".burn\\(\\)",
+			"\n                ",
+			"console",
+			"console.log",
+			"console.",
+			"array",
+			"maxTrucks",
+			"random",
+			"3",
+			"Building",
+			"GetSurr",
+			"getDirect",
+			"\\n",
+			"$name",
+			"UPDATE",
+			"createScore",
+			"alert(",
+			"commission",
+			"driver",
+			"email",
+			"Drivers licence",
+			"OVERVIEW_SUMMARY",
+			"items",
+			"$this->_basket['total']",
+			"$this->_basket =",
+			"$this->_basket",
+			"exit()",
+			"exit",
+			"exit()",
+			"$GLOBALS['smarty']->assign('TOTAL',",
+			"1397.00",
+			"price",
+			"max_commission",
+			"COMMISSION",
+			"agent",
+			"$_POST['commission']",
+			"setCommission",
+			"$GLOBALS['db']->update('CubeCart_order_summ",
+			"agentReport",
+			"_AGENTS",
+			"AGENTS",
+			"_AGENTS",
+			"AGENTS",
+			"NSW_AGENTS",
+			"product",
+			"button",
+			"box",
+			"basket",
+			"price",
+			"button",
+			"productDetailImage",
+			"catalogue",
+			"start",
+			"catalogue",
+			"sale",
+			"required",
+			"product_",
+			"items",
+			"gateway",
+			"order",
+			"data",
+			"order",
+			"cart_order_id",
+			"save",
+			"cart_order_id",
+			"cart_id",
+			"basket",
+			"function get",
+			"cart_order_id",
+			"basket ",
+			"cart_order_id",
+			"_basket",
+			"CART_ID",
+			"grandTotalField",
+			"org",
+			"set",
+			"setCommission",
+			"update_form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"newAnalysis.php",
+			"Analysis",
+			"\\$db",
+			"",
+			"loading.png",
+			"menu.png",
+			"img",
+			"js",
+			"",
+			"GasStation",
+			", ",
+			"Express_Scalar",
+			"Postcode_Scalar",
+			"productTriggers",
+			"username",
+			"name",
+			"AgentAdminUser",
+			"CONTENTGENERATOR::"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/emoore/Sites/ARL/classes/Page.php",
+					"settings":
+					{
+						"buffer_size": 2169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1241,
+								1241
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/emoore/Sites/ARL/css/style.css",
+					"settings":
+					{
+						"buffer_size": 3627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2027,
+								2033
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 151.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/emoore/Sites/ARL/classes/SingletonDB.php",
+					"settings":
+					{
+						"buffer_size": 1268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/emoore/Sites/ARL/clients.php",
+					"settings":
+					{
+						"buffer_size": 1965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 244.0
+	},
+	"output.find_results":
+	{
+		"height": 380.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"custom.css",
+				"skins/orw/styles/custom.css"
+			],
+			[
+				"def",
+				"language/definitions.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true
+}

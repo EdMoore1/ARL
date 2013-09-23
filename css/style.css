@@ -1,0 +1,89 @@
+/* General Page Stuff */
+body { font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-weight: 300; color: #222; overflow: hidden; }
+a { color: #222; }
+div#pageWrapper { width: 100%; height: 100%; background: #c5c5c5; }
+div#headerWrapper { width: 100%; background: #222; color: #f3f3f3; padding: 15px 0px; height: 20px; }
+div#headerWrapper { 
+	-webkit-box-shadow: 0px 0px 8px 2px #000000;
+	-moz-box-shadow: 0px 0px 8px 2px #000000;
+	box-shadow: 0px 0px 8px 2px #000000;
+	z-index: 10;
+}
+div#header img { float: left; margin-top: -15px; margin-left: 15px; padding-right: 10px; height: 50px; width: 50px; }
+div#header { margin: auto; }
+div#header div#helpHeader { float: right; margin-right: 15px; }
+div#menuWrapper { width: 100%; color: #f3f3f3; padding: 15px 0px; height: 25px; background: #222 url('../images/headerBg.jpg') repeat-x top left; }
+ul#menu { padding-top: 0px; margin-top: 5px; margin-left: -30px; }
+ul#menu li { display: inline-block; padding: 0px 1%; color: #f3f3f3; }
+ul#menu li:hover { color: #ECD180; }
+div.bigForm > * { margin: auto; }
+div.bigForm input { width: 80%; height: 15px; padding: 20px 10px; margin: 0px 10%; }
+div.bigForm input[type="submit"] { padding-top: 10px; padding-bottom: 25px; }
+.standardBG { background: #c5c5c5; }
+.filler { margin-bottom: 30px; }
+div#footerWrapper { position: fixed; bottom: 0; width: 100%; background: #222; color: #f3f3f3; padding: 15px 0px; height: 20px; }
+div#infoBox { max-width: 100%; }
+div#infoBox > div { width: 100%; text-align: center; color: #222; margin: auto; padding: 4px;
+	/* Possibly the best thing ever!*/
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+div#infoBox div.info 	{ border: solid 1px #DEDEDE; background: #EFEFEF; }
+div#infoBox div.warning { border: solid 1px #dfdfde; background: #fcf9ce; }
+div#infoBox div.success { border: solid 1px #359545; background: #cee6c3; }
+div#infoBox div.error 	{ border: solid 1px #cb2026; background: #f6cbca; }
+
+div#contentWrapper { width: 90%; margin: auto; }
+
+div#contentBox { width: 100%; margin: auto; padding: 5px 20px; }
+
+table.bigTable { width: 90%; margin: auto;
+	/* Still possibly the best thing ever!*/
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+table.bigTable th { text-align: left; }
+
+
+
+div#loginForm { 
+	margin-left: -20px;
+	margin-top: -5px;
+	background: #666666; /* Old browsers */
+	background: -moz-linear-gradient(top,  #666666 2%, #222222 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(2%,#666666), color-stop(100%,#222222)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #666666 2%,#222222 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #666666 2%,#222222 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #666666 2%,#222222 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #666666 2%,#222222 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#666666', endColorstr='#222222',GradientType=0 ); /* IE6-9 */
+}
+div#forgotBox { width: 80%; margin: auto; }
+div#forgotBox > div { margin: 0px 10px; }
+div#forgotBox a { display: block; padding: 10px 0px; border-bottom: 1px #666 solid; }
+
+
+
+/* New Analysis */
+div#newOptions { height: 245px; width: 660px; margin: auto; }
+div#uploadForm { margin: auto; background: url('../images/cloudUpload.png') no-repeat top center; height: 245px; width: 330px; float: right; opacity: 0.4; }
+div#uploadForm:hover { opacity: 1; }
+form#newUploadForm { display: inline-block; width: 330px; }
+div#newFileLink { margin: auto; background: url('../images/newFile.png') no-repeat top center; height: 245px; width: 330px; float: left; opacity: 0.4; }
+div#newFileLink:hover { opacity: 1; }
+div#uploadForm input { height: 100%; width: 100%; opacity: 0; }
+div#newDialog { width: 100%; }
+
+table.evenTable td, table.evenTable th { width: 200px; }
+table.evenTable th.tinyCell { width: 20px; }
+table#reportTable h3 { margin: 0; text-align: center; font-size: 14px; vertical-align: top; }
+table#reportTable li { margin-bottom: 20px; }
+table#reportTable li:last-child { margin-bottom: 0; }
+table#reportTable td.Extreme { background-color: #df0119; }
+table#reportTable td.High { background-color: #fcf156; }
+table#reportTable td.Moderate { background-color: #11b63f; }
+table#reportTable td.ManagedRisk { background-color: #00ade4; }
